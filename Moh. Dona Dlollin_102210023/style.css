@@ -1,0 +1,136 @@
+body {
+font: 16px/28px times new roman, sans-serif;
+background-color: rgb(134, 134, 134);
+background-image: url(kampus.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+
+}
+
+.utama {
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 5px 5px 4px rgba(0,0,0,0.4);
+    
+   
+   
+    
+    
+}
+.kotak1 {
+
+width: 800px;
+height: 100px;
+background-color: rgb(0, 49, 0);
+padding-top: 15px;
+padding-bottom: 100px;
+box-sizing: border-box;
+text-align: center;
+
+
+}
+
+.lofil{
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 7px;
+}
+.link {
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 90px;
+    
+}
+.link a {
+    margin-top: 80px;
+    display: inline-block;
+    margin-left: 40px;
+    
+    
+}
+.link a:hover{
+    width: auto;
+    background-color: rgb(7, 255, 7);
+    padding: 5px;
+    line-height: normal;
+}
+.gam{
+display: inline-block;
+margin-top: 50px;
+margin-left: 300px;
+text-align: center;
+line-height: normal;
+
+}
+.pf{
+    display: inline-block;
+margin-top: 50px;
+margin-left: 330px;
+text-align: center;
+line-height: normal;
+}
+.yuyu{
+    display: inline-block;
+margin-top: 50px;
+margin-left: 280px;
+text-align: center;
+
+}
+.kampus{
+    height: 350px;
+    background-image: url(kampus.jpg);
+    background-size: cover;
+    background-position: -30px;
+    border: 5px  solid green ;
+    
+    margin-top: 50px;
+}
+.header{
+
+    color: rgb(1, 170, 15);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium';
+    line-height: 45px;
+    
+}
+.isi{
+    font-size: 20px;
+     margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    padding-bottom: 50px;
+    line-height: 35px;
+
+}
+.gambeg{
+    
+}
+
+.vm{
+    padding-left: 40px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    padding-bottom: 50px;
+}
+.maps{
+   
+    
+    border: 5px dotted rgb(1, 188, 1);
+    display: inline-block;
+    margin-left: 90px;
+
+}
+
+.bld{
+    height: 50px;
+    width: 800px;
+}
